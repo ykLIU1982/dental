@@ -110,6 +110,7 @@ yG2t = [i+25.50*12 for i in yG2]
 yG2a = [i/.7+25.50*12 for i in yG2]
 
 # Metlife Option 4 $37.5
+# This is a group dental plan which is unlike all above ones which are sold for individual members.
 # nonPremCost(1500, unitCostPrev, 1, 0, costBase, 0.8, 50)
 yMg = [nonPremCost(1500, unitCostPrev, 1, 0, costBase, 0.8, 50) for costBase in x]
 yMgt = [i+37.5*12 for i in yMg]
@@ -139,4 +140,7 @@ else:
 
 plt.show()
 ```
-The complete code can be found in the Python Notebook file: dental_plan_comp
+The complete code can be found in the Python Notebook file with the name of dental_plan_comp.
+
+The results will show some plan which has a higher monthly premium but will save the patient more money at a higher coverage rate and higher annual maximum benefits if the patient estimates a higher dental need in the coming year. Furthermore, the group insurance usually outperforms the individual ones thanks to the group negotiation advatages.
+
