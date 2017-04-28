@@ -13,10 +13,11 @@ First, the terminology in the dental insurance package is determined (based upon
   2. Annual maximum benefit: the total amount of fee that the insurance covers after the deductible and self-paid part.
 * Acceptance: 
   1. In-network and out-network: many plans refuse to pay the clinic visits to out-network dentists. The network size and the average level of the dentists in the network may vary.
+  2. Sometimes, the difficulty of the clamation of the insurance is another factor when choosing the plan. Some company may be more flexible than the others as mentioned by some clinic staff.
 
 Next, I collected serveral dental insurance plans that are available in the market which include
   * Carefirst (2)
-  * Metropolitan Life (3)
+  * Metropolitan Life (3 individual + 1 group member as the benchmark)
   * Delta (dropped later as it is based on per visit copayment which is quite different from the other types, not sure about its acceptance by the dentists) 
   * Guardian (2)
 - Above plan rates are based on the Internet search in April 2017 for a quota of an male adult at the age of 34 in Montgomery County, Maryland starting coverage from 06/01/2017. The plan details are also uploaded into this project folder.
