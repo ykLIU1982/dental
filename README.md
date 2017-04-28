@@ -143,8 +143,9 @@ plt.show()
 ```
 The complete code can be found in the Python Notebook file with the name of dental_plan_comp.
 
-![alt text](https://github.com/ykLIU1982/dental/blob/master/figure_1.png "Total cost as shown in Option 1")
-
+![alt text](https://github.com/ykLIU1982/dental/blob/master/figure_1-0.png "Total cost as shown in Option 0")
+![alt text](https://github.com/ykLIU1982/dental/blob/master/figure_1-1.png "Total cost as shown in Option 1")
+![alt text](https://github.com/ykLIU1982/dental/blob/master/figure_1-2.png "Total cost as shown in Option 2")
 
 The results will show some plan which has a higher monthly premium but will save the patient more money at a higher coverage rate and higher annual maximum benefits if the patient estimates a higher dental need in the coming year. If the patient only has very limited dental care, such as routing cleaning for twice a year, maybe he or she can just exempt from the insurance by paying the totoal visit cost. Furthermore, the group insurance usually outperforms the individual ones thanks to the group negotiation advatages. 
 
