@@ -29,6 +29,7 @@ The following are assumptions used in the comparison model:
 4) There is a deductible for the basic services at baseDeduct (unit: \$) and the cost beyond the deductible will be paid by the insurance company at the coverage ratio of rBase in [0, 1].
 5) The total paid coverage by the insurance company is bounded by the annual maximum benefit, maxY (unit: \$), which depends on the selection of the dental insurance package ranging from $500 to $2000.
 6) In the cases when the deductible is shared by preventive services and basic restorative services, we assume that the preventive services will first claim the deductible. The coverage of basic services will be triggered immediately  when the preventive services use up the deductible, which is usually the case.
+7) NO Waiting period is considered for any type of services. A long steady suscription to the plan has been assumed. 
 
 The code is as follows along with comments:
 
